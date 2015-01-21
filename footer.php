@@ -1,0 +1,2 @@
+<div class="fullfooter">
+</div>

@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+																	  
+/********************************************************** ADMIN INFO CSS *******************************************************/
+.adminpage { width:1000px; height:auto; margin:auto; margin-top:40px; margin-bottom:5px; border-radius:15px; box-shadow:3px 3px 3px 3px #006600; }
+.pagemeter { width:960px; height:auto; margin-top:10px; margin-left:20px;}
+.adminleft {height:700px; width:200px; border:1px #CCCCCC groove; border-radius:15px 15px 15px 15px; float:left;}																	
+.admininfo {height:auto; width:850px; border:1px #CCCCCC groove; border-radius:15px 15px 15px 15px; float:left; margin-left:20px;}
+.adminpagename { height:35px; width:800px; border:1px #CCCCCC groove; border-radius:10px; background-color:#535353; margin-top:10px; margin-left:10px;}                                                                                                                
